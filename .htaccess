@@ -1,0 +1,2 @@
+ErrorDocument 404 /bachelor4/src/not-found-page.php
+ErrorDocument 403 /bachelor4/src/not-found-page.php
